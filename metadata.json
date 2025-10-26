@@ -1,0 +1,5 @@
+{
+  "name": "Audiobook Visualizer AI",
+  "description": "Upload a public domain text, specify the audiobook's length, and get a context-relevant image screensaver powered by AI. As you listen, the app generates and displays images that match the story's progress.",
+  "requestFramePermissions": []
+}
